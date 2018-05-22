@@ -1,2 +1,4 @@
-# cifar10_trial
-Fun continued with cifar10 dataset using cnn in both keras and tensorflow
+# cifar10 with Transfer Learning
+Fun continued with cifar10 dataset using cnn in Keras
+
+## Getting Started 
